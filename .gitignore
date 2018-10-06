@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs/D.T.S/v15/Browse.VC.db
+/.vs/D.T.S/v15/Browse.VC.opendb
+/.vs/D.T.S/v15
+/D.T.S/Debug
+/Debug
+/D.T.S/Release
+/Release
